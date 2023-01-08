@@ -1,0 +1,6 @@
+#QuanX 需要: v1.0.6-build195 及以后版本 (TestFlight)
+#&QuanX
+^https:\/\/m\.ctrip\.com/restapi/soa2/14593/json/attendanceDay? url script-request-body https://raw.githubusercontent.com/Jane-Rui/scripts/master/zxhc/zxhc.cookie.js
+# QuanTF
+^https:\/\/m\.ctrip\.com/restapi/soa2/14593/json/attendanceDay? url script-request-body https://raw.githubusercontent.com/Jane-Rui/scripts/master/zxhc/zxhc.cookie.js
+hostname = m.ctrip.com
