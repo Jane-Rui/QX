@@ -3,6 +3,10 @@
     {
       "config":"25 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.js, tag=10086, img-url=https://github.moeyy.xyz/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Dark/CMI.png, enabled=true",
       "addons":"https://raw.githubusercontent.com/Jane-Rui/QX/main/QXrewrite/10086_checkin.qxrewrite,tag=10086_获取Cookie"
+    },
+    {
+      "config":"10 0 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/neteasemusic/quanx/neteasemusic.js, tag=网易云音乐, img-url=https://github.moeyy.xyz/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netease_Music.png, enabled=true",
+      "addons":"https://raw.githubusercontent.com/Jane-Rui/QX/main/QXrewrite/Netease_Music_checkin.qxrewrite,tag=网易云音乐_获取Cookie"
     }
   ],
   "description":"Script Gallery"
